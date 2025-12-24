@@ -38,5 +38,5 @@ This project helped me practice using CSS Grid for complex layouts and handling 
 
 ## Author
 
-- Website - [Your Name](https://www.your-site.com)
+- Website - [Joan Ndungi](https://www.your-site.com)
 - Frontend Mentor - [@Keshiindungi](https://www.frontendmentor.io/profile/keshiindungi)
